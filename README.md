@@ -1,4 +1,4 @@
-# RAG V1
+# RAG Pipeline
 
 A modular Retrieval-Augmented Generation (RAG) system built from scratch.
 
